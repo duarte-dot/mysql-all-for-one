@@ -1,1 +1,4 @@
-SELECT id from products;
+SELECT 
+    id
+FROM
+    products;
