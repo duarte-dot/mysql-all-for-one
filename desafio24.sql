@@ -1,3 +1,5 @@
+-- Atualizei os dados da coluna discount da tabela order
+
 UPDATE order_details 
 SET 
     discount = 45
