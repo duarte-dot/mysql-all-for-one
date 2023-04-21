@@ -11,3 +11,10 @@ Neste projeto, eu:
 <li>Criei, alterei e deletei dados em tabelas;</li>
 <li>Escrevi consultas que manipulam tabelas;</li>
 </ul>
+
+O que foi necessário para conclusão do projeto:
+<ul>
+<li>Entender o que são bancos de dados relacionais;</li>
+<li>Entender como manipular tabelas em um banco de dados relacional;</li>
+<li>Entender como acessar dados em um banco de dados relacional;</li>
+</ul>
