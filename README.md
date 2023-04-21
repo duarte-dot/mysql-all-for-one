@@ -1,13 +1,13 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# MYSQL All For One
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<ul>
+<li>Este projeto teve como objetivo meu aprendizado em como resolver diferentes desafios utilizando a linguagem SQL em um banco de dados MYSQL.</li>
+<li>Foi utilizado o banco de dados northwind para realização das queries.</li>
+</ul>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Neste projeto, eu:
+<ul>
+<li>Extraí e manipulei dados de um banco de dados relacional;</li>
+<li>Criei, alterei e deletei dados em tabelas;</li>
+<li>Escrevi consultas que manipulam tabelas;</li>
+</ul>
