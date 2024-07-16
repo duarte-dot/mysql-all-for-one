@@ -1,20 +1,20 @@
 # MYSQL All For One
 
 <ul>
-<li>Este projeto teve como objetivo meu aprendizado em como resolver diferentes desafios utilizando a linguagem SQL em um banco de dados MySQL.</li>
-<li>Foi utilizado o banco de dados northwind para realização das queries.</li>
+<li>This project aimed at my learning how to solve different challenges using SQL language in a MySQL database.</li>
+<li>The northwind database was used for executing queries.</li>
 </ul>
 
-Neste projeto, eu:
+In this project, I:
 <ul>
-<li>Extraí e manipulei dados de um banco de dados relacional;</li>
-<li>Criei, alterei e deletei dados em tabelas;</li>
-<li>Escrevi consultas que manipulam tabelas;</li>
+<li>Extracted and manipulated data from a relational database;</li>
+<li>Created, altered, and deleted data in tables;</li>
+<li>Wrote queries that manipulate tables;</li>
 </ul>
 
-O que foi necessário para conclusão do projeto:
+What was necessary to complete the project:
 <ul>
-<li>Entender o que são bancos de dados relacionais;</li>
-<li>Entender como manipular tabelas em um banco de dados relacional;</li>
-<li>Entender como acessar dados em um banco de dados relacional;</li>
+<li>Understanding what relational databases are;</li>
+<li>Understanding how to manipulate tables in a relational database;</li>
+<li>Understanding how to access data in a relational database;</li>
 </ul>
